@@ -8,7 +8,7 @@ html {
 
 .bg {
   /* Location of the image */
-  background-image: url(Assets/38030.jpg);
+  background-image: url(/38030.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
